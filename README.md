@@ -1,2 +1,2 @@
 [comment]: <> (Inspiration)
-[comment]: <> ((https://empirical-urbanist.io/))
+[comment]: <> (https://empirical-urbanist.io/)
